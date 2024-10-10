@@ -5,7 +5,7 @@
   "borderColor": "#E0DEDE",
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
   "borderWidth": "1",
-  "bottomRow": 31,
+  "bottomRow": 38,
   "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
   "canFreezeColumn": true,
   "childStylesheet": {
@@ -430,7 +430,7 @@
   "showInlineEditingOptionDropdown": true,
   "tableData": "{{Select_p_movies1.data}}",
   "textSize": "1rem",
-  "topRow": 3,
+  "topRow": 10,
   "totalRecordsCount": "{{Total_record_p_movies1.data[0].count}}",
   "type": "TABLE_WIDGET_V2",
   "version": 2,
